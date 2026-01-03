@@ -45,7 +45,7 @@ It was developed as part of an **internship assessment** to demonstrate basic La
 
 ### 1. Clone the repository
 
-git clone <repository-url>
+git clone: https://github.com/Charishma24003/Task-Manager.git
 cd taskManager
 
 ### 2. Install dependencies
