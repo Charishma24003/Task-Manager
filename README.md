@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-=======
+
 # Task-Manager
 A simple single-user Task Management System built with Laravel 11 and MySQL. Supports creating, updating, completing, and deleting tasks with priority and status management. Built using MVC architecture.
 
->>>>>>> e852f08b9c1a8a2e38186d98f26daae884acd858
 # Simple Task Management System
 
 ## Project Overview
@@ -93,9 +91,5 @@ UI is styled using basic CSS for clarity.
 Resource routing and MVC architecture are followed.
 
 ### Author
+Charishma – MCA Student
 
-<<<<<<< HEAD
-Charishma – MCA Student
-=======
-Charishma – MCA Student
->>>>>>> e852f08b9c1a8a2e38186d98f26daae884acd858
